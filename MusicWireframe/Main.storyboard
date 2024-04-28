@@ -123,10 +123,10 @@
     </scenes>
     <resources>
         <image name="Nirvana_album_cover.svg" width="1034" height="1024"/>
-        <image name="backward.fill" catalog="system" width="32" height="32"/>
+        <image name="backward.fill" catalog="system" width="128" height="77"/>
         <image name="forward.fill" catalog="system" width="128" height="77"/>
-        <image name="pause.fill" catalog="system" width="32" height="32"/>
-        <image name="play.fill" catalog="system" width="32" height="32"/>
+        <image name="pause.fill" catalog="system" width="117" height="128"/>
+        <image name="play.fill" catalog="system" width="117" height="128"/>
         <systemColor name="systemBackgroundColor">
             <color white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
         </systemColor>
