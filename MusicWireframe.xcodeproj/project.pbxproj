@@ -12,7 +12,7 @@
 		0B3986B52BD85877004A2E99 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0B3986B42BD85877004A2E99 /* ViewController.swift */; };
 		0B3986BA2BD85879004A2E99 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0B3986B92BD85879004A2E99 /* Assets.xcassets */; };
 		0B3986BD2BD85879004A2E99 /* Base in Resources */ = {isa = PBXBuildFile; fileRef = 0B3986BC2BD85879004A2E99 /* Base */; };
-		0B4EB68D2BDF0913008E15F8 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0B4EB68C2BDF0913008E15F8 /* Main.storyboard */; };
+		0B4EB68F2BDF1479008E15F8 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0B4EB68E2BDF1479008E15F8 /* Main.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -23,7 +23,7 @@
 		0B3986B92BD85879004A2E99 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		0B3986BC2BD85879004A2E99 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		0B3986BE2BD85879004A2E99 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		0B4EB68C2BDF0913008E15F8 /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = Main.storyboard; sourceTree = "<group>"; };
+		0B4EB68E2BDF1479008E15F8 /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = Main.storyboard; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,7 +61,7 @@
 				0B3986B42BD85877004A2E99 /* ViewController.swift */,
 				0B3986B92BD85879004A2E99 /* Assets.xcassets */,
 				0B3986BB2BD85879004A2E99 /* LaunchScreen.storyboard */,
-				0B4EB68C2BDF0913008E15F8 /* Main.storyboard */,
+				0B4EB68E2BDF1479008E15F8 /* Main.storyboard */,
 				0B3986BE2BD85879004A2E99 /* Info.plist */,
 			);
 			path = MusicWireframe;
@@ -125,7 +125,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				0B4EB68D2BDF0913008E15F8 /* Main.storyboard in Resources */,
+				0B4EB68F2BDF1479008E15F8 /* Main.storyboard in Resources */,
 				0B3986BA2BD85879004A2E99 /* Assets.xcassets in Resources */,
 				0B3986BD2BD85879004A2E99 /* Base in Resources */,
 			);
